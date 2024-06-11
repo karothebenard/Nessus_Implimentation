@@ -11,3 +11,9 @@ Malware Detection: Identifies malware and other malicious code present on system
 Patch Management: Highlights missing patches and prioritizes remediation based on vulnerability severity.
 Usage in Cybersecurity
 Nessus is an essential tool for cybersecurity professionals, enabling proactive identification and mitigation of security risks. Its detailed reporting and integration capabilities make it a versatile addition to any security toolkit, ensuring networks remain secure and compliant with industry standards.
+
+There is a way to install nessus for free and have free version on Kali linux.
+
+Due to security I can not attach all my installation procedures but have attached the below images after my full installation but you can follow the below link from David Bombal 
+
+(https://youtu.be/Gy-aPBb0djk)
