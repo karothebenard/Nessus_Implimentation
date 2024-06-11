@@ -22,5 +22,22 @@ UPDATES
 
 ![1](https://github.com/karothebenard/Nessus_Implimentation/assets/165713653/7c161b3c-3c3c-4830-8525-5c6d31e6ac17)
 
+TEMPLATES
+
+![2](https://github.com/karothebenard/Nessus_Implimentation/assets/165713653/bcb39d2f-f920-4727-8258-029205bcce1b)
+
+MY FIRST SCAN
+
+![3](https://github.com/karothebenard/Nessus_Implimentation/assets/165713653/5c29de5f-b896-4820-8d2b-36bc10f163e7)
+
+RESULTS
+
+![4](https://github.com/karothebenard/Nessus_Implimentation/assets/165713653/0a88f682-7476-4f5c-a805-18d2400b46ac)
+
+
+
+
+
+
 
 
